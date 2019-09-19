@@ -4,9 +4,9 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: 星晴的小屋
+subtitle: "Life is short, coding faster then have fun!"
+description: "I am Wu Xiaobo, master student in Aalto university!"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"

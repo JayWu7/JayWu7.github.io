@@ -10,19 +10,17 @@
     </script>
 </head>
 
-\---
-
+```
 layout: post
 
 title: 单变量线性回归模型
 
-categories: 机器学习
+categories: Android
 
 description: 基于单变量的线性回归模型
 
 keywords: 线性回归, 机器学习
-
-\---
+```
 
 
 #### 线性模型基本形式：

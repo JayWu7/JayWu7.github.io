@@ -1,3 +1,16 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+
 #### 线性模型基本形式：
 
 给定由d个属性描述的示例$x=(x_1;x_2;...;x_d)$，其中$x_i$是x在第i个属性上的取值，线性模型试图学得一个通过属性的线性组合来进行预测的函数，即

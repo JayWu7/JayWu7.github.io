@@ -15,7 +15,7 @@ layout: post
 
 title: 单变量线性回归模型
 
-categories: Android
+categories: 机器学习
 
 description: 基于单变量的线性回归模型
 

@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://jaywu7.github.io/
 date_format: "ordinal"
-title: Wu Xiaobo's personal page
-subtitle: "Life is short, coding faster then having fun!"
+title: JayWu's personal page
+subtitle: "水向东流，时间怎么偷"
 description: "I am Wu Xiaobo, Machine Learnign master student in Aalto university!"
-keywords: Wu Xiaobo, JayWu, machine learning, python
+keywords: Wu Xiaobo, JayWu, machine learning, python, deep learning
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -19,7 +19,7 @@ author: Wu Xiaobo
 organization: Aalto University
 organization_url: https://www.aalto.fi/en
 github_username: JayWu7
-location: Helsinki, Finland
+location: Shenzhen, China
 email: xiaobo.wu@aalto.fi
 
 # ---------------- #

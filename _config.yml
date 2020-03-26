@@ -46,9 +46,9 @@ navs:
     href: /links/
     label: Links
 
-  -
-    href: /about/
-    label: About
+  # -
+  #   href: /about/
+  #   label: About
 
 # ---------------- #
 #       RSS        #

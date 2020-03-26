@@ -1,19 +1,31 @@
 - name: Software Engineer Keywords
   keywords:
+      - Python
       - Java
       - C++
-      - Python
-      - Design Patterns
+      - Scala
+      - R
 
-- name: Mobile Developer Keywords
+- name: Machine Learning
   keywords:
-      - Android
-      - Reverse Engineering
+      - Deep Learning
+      - Supervised Learning
+      - UnSupervised Learning
 
-- name: Windows Developer Keywords
+- name: Common Frameworks
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - PyTorch
+      - Spark
+      - Numpy
+      - Pandas
+      - Scipy
+      - Matplotlib
+
+- name: Development Environment and Tools
+  keywords:
+      - MacOS
+      - Linux Command
+      - Docker
+      - Git
+      - Anaconda
+      - Latex

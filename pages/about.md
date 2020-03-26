@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 芬兰阿尔托大学，机器学习硕士
+keywords: Xiaobo Wu, 吴小波
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是JayWu，爱运动，爱生活。
 
-仰慕「优雅编码的艺术」。
+坚信「人工智能将改变这个世界」。
 
-坚信熟能生巧，努力改变人生。
+在深度学习算法工程师这条路上努力着。
 
 ## 联系
 

@@ -1,27 +1,13 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
-
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+  name: JayWu7
+  url: https://github.com/JayWu7
 
 - sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
-
-- sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: Xiaobo Wu
+  url: https://www.linkedin.com/in/xiaobo-wu-1b0417194/
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: JayWu7
+  url: http://weibo.com/JayWu7
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
 
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim

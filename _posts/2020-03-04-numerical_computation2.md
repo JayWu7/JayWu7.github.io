@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 深度学习，数值计算要点 part1
+title: 深度学习，数值计算要点 part2
 categories: [深度学习]
 description: 简要介绍一下深度学习中的数值计算常见注意事项和加速方法
 keywords: 深度学习

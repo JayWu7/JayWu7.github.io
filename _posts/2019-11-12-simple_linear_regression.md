@@ -15,7 +15,7 @@ layout: post
 
 title: 单变量线性回归模型
 
-categories: 机器学习
+categories: Machine_Learning
 
 description: 基于单变量的线性回归模型
 

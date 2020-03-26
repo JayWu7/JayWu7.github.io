@@ -15,7 +15,7 @@ layout: post
 
 title: 多元线性回归模型
 
-categories: 机器学习
+categories: Machine_Learning
 
 description: 基于多变量的线性回归模型
 
@@ -30,7 +30,7 @@ $f(x_i)=w^Tx_i+b$， 使得$f(x_i)\backsimeq y_i$，这称为“多元线性回�
 
 $\hat w = (w;b)$，相应的，把数据集D表示为一个$m×(d+1)$大小的矩阵$X$,其中每行对应于一个示例，该行前d个元素对应于示例的d个属性值，最后一个元素恒置为1，即：
 
-![image-20200219180748832](/Users/jaywu/Library/Application Support/typora-user-images/image-20200219180748832.png)
+![image-20200219180748832](/images/posts/ml/image-20200219180748832.png)
 
 
-![image-20200219180837374](/Users/jaywu/Library/Application Support/typora-user-images/image-20200219180837374.png)
+![image-20200219180837374](/images/posts/ml/image-20200219180837374.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 简单线性回归模型
-categories: Machine Learning
+categories: 机器学习
 description: 基于单变量的线性回归模型
 keywords: 线性回归, 机器学习
 ---

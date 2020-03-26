@@ -1,3 +1,11 @@
+---
+layout: post
+title: 多变量线性回归模型
+categories: 机器学习
+description: 基于多变量的线性回归模型
+keywords: 线性回归, 机器学习
+---
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -9,18 +17,6 @@
         });
     </script>
 </head>
-
-```
-layout: post
-
-title: 多元线性回归模型
-
-categories: Machine_Learning
-
-description: 基于多变量的线性回归模型
-
-keywords: 线性回归, 机器学习
-```
 
 更一般的情形是如本节开头的数据集D，样本有d个属性描述. 此时我们试图学得：
 
@@ -34,3 +30,4 @@ $\hat w = (w;b)$，相应的，把数据集D表示为一个$m×(d+1)$大小的�
 
 
 ![image-20200219180837374](/images/posts/ml/image-20200219180837374.png)
+
